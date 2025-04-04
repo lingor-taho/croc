@@ -13,6 +13,15 @@
 </p>
 
 ## About
+一款跨设备文件分享的开源免费工具：Croc，可以放弃使用网盘或硬盘了。
+
+无需在同一网络下，允许任意两台电脑之间传输文件或文件夹，不限制大小，并提供端到端加密，更安全更快速地分享。
+
+GitHub：http://github.com/schollz/croc
+
+除此之外，还支持多文件传输，以及中断后的断点续传功能。
+
+支持 Windows、Linux 和 macOS 一键安装使用。
 
 `croc` is a tool that allows any two computers to simply and securely transfer files and folders. AFAIK, *croc* is the only CLI file-transfer tool that does **all** of the following:
 
